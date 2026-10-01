@@ -1,0 +1,7 @@
+{
+  "name": "KothaHisab - Student Room & Expense Manager",
+  "description": "Comprehensive student room management, shared rent, expense ledger, visual analytics, and historical snapshot settlement tracker in NPR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
